@@ -1,0 +1,17 @@
+
+/* header start */
+.header-link:hover{
+    text-decoration: underline  !important;
+}
+/* header end */
+
+    @media only screen and (max-width: 1000px) {
+        /* main start */
+    .paragraph{
+        font-size: 13px;
+    }
+    .paragraph-div{
+        width:86vw  !important;
+    }
+    /* main end */
+}
