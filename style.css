@@ -3,9 +3,21 @@
 .header-link:hover{
     text-decoration: underline  !important;
 }
-/* header end */
 
-    @media only screen and (max-width: 1000px) {
+.header-btn {
+    width: 80px !important;
+}
+/* header end */
+/* main start */
+.main-container {
+    width:37vw !important;
+}
+
+.cards-container {
+    width: 100% !important;
+}
+/* main end */
+@media only screen and (max-width: 1000px) {
         /* main start */
     .paragraph{
         font-size: 13px;
